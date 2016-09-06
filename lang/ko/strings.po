@@ -82,7 +82,7 @@ msgstr "드롭박스에 성공적으로 저장되었습니다"
 
 #: script/dropbox.js:180
 msgid "error while saving to dropbox datastorage"
-msgstr "게임을 드롭박스에 저장하다가 오류가 발생했습니다"
+msgstr "드롭박스에 저장 중 오류가 발생했습니다"
 
 #: script/dropbox.js:183
 msgid "ok"
@@ -94,7 +94,7 @@ msgstr "권투 선수"
 
 #: script/engine.js:16
 msgid "punches do more damage"
-msgstr "주먹이 더 강해진다"
+msgstr "주먹질이 더 강해진다"
 
 #: script/engine.js:18
 msgid "learned to throw punches with purpose"
@@ -106,7 +106,7 @@ msgstr "무술가"
 
 #: script/engine.js:22
 msgid "punches do even more damage."
-msgstr "주먹이 훨씬 더 강해진다."
+msgstr "주먹질이 훨씬 더 강해진다."
 
 #: script/engine.js:23
 msgid "learned to fight quite effectively without weapons"
@@ -118,7 +118,7 @@ msgstr "맨손격투의 달인"
 
 #: script/engine.js:28
 msgid "punch twice as fast, and with even more force"
-msgstr "주먹이 두 배 빨라지고 강해지기까지 한다"
+msgstr "주먹질이 두 배 빨라지고 더 강해지기까지 한다"
 
 #: script/engine.js:29
 msgid "learned to strike faster without weapons"
@@ -126,7 +126,7 @@ msgstr "무기 없이 더 빠르게 공격하는 법을 배웠다"
 
 #: script/engine.js:32
 msgid "barbarian"
-msgstr "격투가"
+msgstr "야만인"
 
 #: script/engine.js:33
 msgid "melee weapons deal more damage"
@@ -146,7 +146,7 @@ msgstr "먹지 않고 두배의 거리를 갈 수 있다"
 
 #: script/engine.js:39
 msgid "learned how to ignore the hunger"
-msgstr "배가 고파도 참을 수 있다"
+msgstr "배가 고파도 참는 법을 알았다"
 
 #: script/engine.js:42
 msgid "desert rat"
@@ -154,11 +154,11 @@ msgstr "사막 쥐"
 
 #: script/engine.js:43
 msgid "go twice as far without drinking"
-msgstr "물을 안 마시고도 두 배 멀리 갈 수 있다"
+msgstr "물을 안 마시고도 두 배의 거리를 갈 수 있다"
 
 #: script/engine.js:44
 msgid "learned to love the dry air"
-msgstr "건조한 바람과 친구가 되었다"
+msgstr "건조한 공기에 익숙해 지는 법을 알았다"
 
 #: script/engine.js:47
 msgid "evasive"
@@ -174,7 +174,7 @@ msgstr "이리로 오면 저리로 피하는 법을 배웠다"
 
 #: script/engine.js:52
 msgid "precise"
-msgstr "정확"
+msgstr "정확성"
 
 #: script/engine.js:53
 msgid "land blows more often"
@@ -186,7 +186,7 @@ msgstr "그들의 움직임이 눈에 보이기 시작했다"
 
 #: script/engine.js:57
 msgid "scout"
-msgstr "정찰술"
+msgstr "정찰"
 
 #: script/engine.js:58
 msgid "see farther"
@@ -194,19 +194,19 @@ msgstr "더 멀리 볼 수 있다"
 
 #: script/engine.js:59
 msgid "learned to look ahead"
-msgstr "앞을 내다보는 법을 배웠다"
+msgstr "좀 더 앞을 내다 보는 법을 알았다"
 
 #: script/engine.js:62
 msgid "stealthy"
-msgstr "잠입"
+msgstr "은밀함"
 
 #: script/engine.js:63
 msgid "better avoid conflict in the wild"
-msgstr "야외에서는 싸우지 않는 편이 더 낫다"
+msgstr "야외에서 전투에 덜 휘말린다"
 
 #: script/engine.js:64
 msgid "learned how not to be seen"
-msgstr "보이지 않게 숨는 법을 배웠다"
+msgstr "눈에 띄지 않는 법을 알았다"
 
 #: script/engine.js:67
 msgid "gastronome"
@@ -214,11 +214,11 @@ msgstr "미식가"
 
 #: script/engine.js:68
 msgid "restore more health when eating"
-msgstr "먹을 때 체력을 더 많이 채운다"
+msgstr "먹을 때 체력을 더 많이 회복한다"
 
 #: script/engine.js:69
 msgid "learned to make the most of food"
-msgstr "더 잘 먹는 법을 배웠다"
+msgstr "왠만한 음식을 만드는 법을 알았다"
 
 #: script/engine.js:138 script/space.js:450
 msgid "app store."
@@ -282,7 +282,7 @@ msgstr "완료"
 
 #: script/engine.js:305
 msgid "are you sure?"
-msgstr "확인해주세요."
+msgstr "확실합니까?."
 
 #: script/engine.js:306
 msgid "if the code is invalid, all data will be lost."
@@ -358,7 +358,7 @@ msgstr "고기 먹기"
 
 #: script/events.js:150
 msgid "use meds"
-msgstr "약 사용"
+msgstr "약품 사용"
 
 #: script/events.js:350 script/events.js:395
 msgid "miss"
@@ -391,7 +391,7 @@ msgstr "버리기:"
 
 #: script/events.js:536 script/events/room.js:523
 msgid "nothing"
-msgstr "사양하기"
+msgstr "가져갈게 없다"
 
 #: script/events.js:567 script/events/setpieces.js:3551
 msgid "take"
@@ -404,7 +404,7 @@ msgstr "가져가기:"
 #: script/events.js:599
 #, fuzzy
 msgid "nothing to take"
-msgstr "사양하기"
+msgstr "가져갈게 없다"
 
 #: script/events.js:627
 msgid "all"
@@ -496,7 +496,7 @@ msgstr "사냥꾼"
 
 #: script/localization.js:22 script/outside.js:30
 msgid "trapper"
-msgstr "덫 장인"
+msgstr "덫 사냥꾼"
 
 #: script/localization.js:23 script/outside.js:38
 msgid "tanner"
@@ -516,7 +516,7 @@ msgstr "총검"
 
 #: script/localization.js:27 script/outside.js:46
 msgid "charcutier"
-msgstr "훈연꾼"
+msgstr "정형사"
 
 #: script/localization.js:28 script/outside.js:55
 msgid "iron miner"
@@ -548,7 +548,7 @@ msgstr "무기 장인"
 
 #: script/localization.js:35 script/outside.js:79
 msgid "steelworker"
-msgstr "풀무장이"
+msgstr "철공업자"
 
 #: script/localization.js:36
 msgid "bait"
@@ -556,7 +556,7 @@ msgstr "미끼"
 
 #: script/localization.js:37 script/localization.js:44
 msgid "cured meat"
-msgstr "훈제 고기"
+msgstr "염장 고기"
 
 #: script/localization.js:38 script/localization.js:43
 msgid "scales"
@@ -572,7 +572,7 @@ msgstr "레이저 소총"
 
 #: script/localization.js:41 script/outside.js:15
 msgid "gatherer"
-msgstr "나무꾼"
+msgstr "채집가"
 
 #: script/localization.js:42
 msgid "cloth"
@@ -580,7 +580,7 @@ msgstr "천"
 
 #: script/localization.js:45
 msgid "thieves"
-msgstr "도둑"
+msgstr "도둑들"
 
 #: script/localization.js:46
 msgid "not enough fur"
@@ -608,7 +608,7 @@ msgstr "유황이 부족하다"
 
 #: script/localization.js:52
 msgid "baited trap"
-msgstr "미끼덫"
+msgstr "미끼를 넣은 덫"
 
 #: script/localization.js:53
 msgid "not enough scales"
@@ -672,7 +672,7 @@ msgstr "모피 조각"
 
 #: script/outside.js:107
 msgid "bits of meat"
-msgstr "고기 토막"
+msgstr "고기 조각"
 
 #: script/outside.js:112
 msgid "strange scales"
@@ -680,7 +680,7 @@ msgstr "이상한 비늘"
 
 #: script/outside.js:117
 msgid "scattered teeth"
-msgstr "흩어진 이빨"
+msgstr "흩뿌려진 이빨"
 
 #: script/outside.js:122
 msgid "tattered cloth"
@@ -688,11 +688,11 @@ msgstr "누더기 천"
 
 #: script/outside.js:127
 msgid "a crudely made charm"
-msgstr "싸구려 장신구"
+msgstr "조잡한 장신구"
 
 #: script/outside.js:143 script/outside.js:562
 msgid "A Silent Forest"
-msgstr "침묵의 숲"
+msgstr "조용한 숲"
 
 #: script/outside.js:169
 msgid "gather wood"
@@ -700,15 +700,15 @@ msgstr "나무 모으기"
 
 #: script/outside.js:188
 msgid "a stranger arrives in the night"
-msgstr "밤중에 이방인이 당도한다"
+msgstr "밤중에 이방인이 찾아왔다"
 
 #: script/outside.js:190
 msgid "a weathered family takes up in one of the huts."
-msgstr "지쳐보이는 가족이 오두막에 자리를 튼다."
+msgstr "지쳐보이는 가족이 오두막 한채에 자리를 튼다."
 
 #: script/outside.js:192
 msgid "a small group arrives, all dust and bones."
-msgstr "작은 집단이 도착한다. 먼지투성이에 뼈만 남았다."
+msgstr "먼지에 쌓이고 뼈만 앙상한 무리가 찾아왔다."
 
 #: script/outside.js:194
 msgid "a convoy lurches in, equal parts worry and hope."
@@ -716,7 +716,7 @@ msgstr "큰 무리가 당도하고, 걱정과 희망이 교차한다."
 
 #: script/outside.js:196
 msgid "the town's booming. word does get around."
-msgstr "마을이 성장한다. 사람들이 소문을 듣는 것 같다."
+msgstr "마을이 북적댄다. 사람들이 소문을 듣는 것 같다."
 
 #: script/outside.js:452
 msgid "pop "
@@ -736,7 +736,7 @@ msgstr "덫 확인"
 
 #: script/outside.js:564
 msgid "A Lonely Hut"
-msgstr "외로운 오두막"
+msgstr "쓸쓸한 오두막"
 
 #: script/outside.js:566
 msgid "A Tiny Village"
@@ -756,15 +756,15 @@ msgstr "북적북적한 마을"
 
 #: script/outside.js:584
 msgid "the sky is grey and the wind blows relentlessly"
-msgstr "하늘은 회색이고 바람은 계속 분다"
+msgstr "하늘은 회색이고 바람은 가차없이 분다"
 
 #: script/outside.js:594
 msgid "dry brush and dead branches litter the forest floor"
-msgstr "마른 솔과 죽은 가지가 숲의 바닥을 채운다"
+msgstr "마른 솔과 죽은 가지가 숲의 바닥에 널려있다"
 
 #: script/outside.js:621
 msgid "the traps contain "
-msgstr "덫에서 무언가 찾았다. "
+msgstr "덫에 무언가 있다. "
 
 #: script/path.js:29 script/path.js:298
 msgid "A Dusty Path"
@@ -818,15 +818,15 @@ msgstr "덫"
 msgid ""
 "builder says she can make traps to catch any creatures might still be alive "
 "out there"
-msgstr "일꾼이 밖에서 어슬렁거리는 동물을 잡을 덫을 만들 수 있다고 한다"
+msgstr "기술자가 아직 살아있는 동물을 잡을 수 있는 덫을 만들 수 있다고 한다"
 
 #: script/room.js:20
 msgid "more traps to catch more creatures"
-msgstr "더 많은 동물을 잡을 수 있는 덫이다"
+msgstr "더 많은 덫을 설치하면 더 많은 동물을 잡을 수 있다"
 
 #: script/room.js:21
 msgid "more traps won't help now"
-msgstr "더 이상의 덫은 필요없는 듯 하다"
+msgstr "더 이상의 덫은 지금 필요하지 않다"
 
 #: script/room.js:31
 msgid "cart"
@@ -846,11 +846,11 @@ msgstr "오두막"
 
 #: script/room.js:47
 msgid "builder says there are more wanderers. says they'll work, too."
-msgstr "일꾼이 떠돌이들이 더 많다고, 그들도 일을 할 수 있다고 한다."
+msgstr "기술자가 일 할 수 있는 떠돌이들이 더 많다고 한다."
 
 #: script/room.js:48
 msgid "builder puts up a hut, out in the forest. says word will get around."
-msgstr "일꾼이 저 숲 속에 오두막을 짓는다. 곧 소문이 퍼지겠지."
+msgstr "기술자가 숲 속에 오두막을 짓는다. 곧 소문이 퍼지겠지."
 
 #: script/room.js:49
 msgid "no more room for huts."
@@ -866,7 +866,7 @@ msgstr "주민들도 사냥을 도울 수 있으니, 기회를 주자"
 
 #: script/room.js:63
 msgid "the hunting lodge stands in the forest, a ways out of town"
-msgstr "사냥용 오두막을 숲 속에, 마을 한참 밖에 지었다"
+msgstr "마을에서 한참 떨어진 숲속에 사냥용 오두막을 지었다"
 
 #: script/room.js:74
 msgid "trading post"
@@ -874,37 +874,37 @@ msgstr "교역소"
 
 #: script/room.js:77
 msgid "a trading post would make commerce easier"
-msgstr "교역소는 거래하기 쉽게 도와준다"
+msgstr "교역소는 거래를 쉽게 성사시켜준다"
 
 #: script/room.js:78
 msgid ""
 "now the nomads have a place to set up shop, they might stick around a while"
-msgstr "이제 유목민들이 가게를 차릴 곳이 생겼으니, 한동안 여기 머무를 테다"
+msgstr "이제 유목민들은 장사할 공간이 생겼으니 한동안 여기 머무를 것 같다"
 
 #: script/room.js:88
 msgid "tannery"
-msgstr "무두실"
+msgstr "무두소"
 
 #: script/room.js:91
 msgid "builder says leather could be useful. says the villagers could make it."
-msgstr "일꾼은 가죽이 쓸모 있을거라 한다. 주민들이 가죽을 만들 수 있다고 한다."
+msgstr "일꾼은 가죽이 쓸모 있을거라 한다. 주민들이 가죽을 쓸만하게 만들 수 있다고 한다."
 
 #: script/room.js:92
 msgid "tannery goes up quick, on the edge of the village"
-msgstr "무두실을 순식간에, 마을 가에 세웠다"
+msgstr "마을 외곽에 무두실을 지었다"
 
 #: script/room.js:102
 msgid "smokehouse"
-msgstr "훈연실"
+msgstr "훈제장"
 
 #: script/room.js:105
 msgid ""
 "should cure the meat, or it'll spoil. builder says she can fix something up."
-msgstr "훈제하지 않으면 고기가 상한다. 일꾼은 훈연실을 만들 수 있다고 한다."
+msgstr "훈제하지 않으면 고기가 상한다.기술자는 훈제장을 만들 수 있다고 한다."
 
 #: script/room.js:106
 msgid "builder finishes the smokehouse. she looks hungry."
-msgstr "훈연실이 완성되었다. 일꾼은 배고파보인다."
+msgstr "훈제장이 완성되었다. 기술자가 배고파보인다."
 
 #: script/room.js:116
 msgid "workshop"
@@ -912,11 +912,11 @@ msgstr "작업장"
 
 #: script/room.js:119
 msgid "builder says she could make finer things, if she had the tools"
-msgstr "일꾼은 도구가 있다면 더 좋은 물건을 만들 수 있다고 한다"
+msgstr "기술자는 도구가 있다면 더 좋은 물건을 만들 수 있다고 한다"
 
 #: script/room.js:120
 msgid "workshop's finally ready. builder's excited to get to it"
-msgstr "작업장이 마침내 완성되었다. 일꾼이 기뻐보인다"
+msgstr "작업장이 마침내 완성되었다. 기술자가 기뻐보인다"
 
 #: script/room.js:131
 msgid "steelworks"
@@ -928,7 +928,7 @@ msgstr "일꾼은 도구만 주어진다면, 주민들도 철을 만들수있다
 
 #: script/room.js:135
 msgid "a haze falls over the village as the steelworks fires up"
-msgstr "제철소에 연기가 피어오르자 마을도 뿌옇게 되었다"
+msgstr "제철소에 불을 피우니 연기가 마을을 뒤엎는다"
 
 #: script/room.js:146
 msgid "armoury"
@@ -936,15 +936,15 @@ msgstr "무기고"
 
 #: script/room.js:149
 msgid "builder says it'd be useful to have a steady source of bullets"
-msgstr "일꾼이 총알을 꾸준히 찍어낼 수 있으면 좋을 것이라고 한다"
+msgstr "기술자는 총알을 지속적으로 생산하면 유용할 것이라고 한다."
 
 #: script/room.js:150
 msgid "armoury's done, welcoming back the weapons of the past."
-msgstr "무기고 완성. 옛 무기를 다시 사용할수 있다."
+msgstr "무기고 완성됐다. 환영한다, 과거의 무기들이여."
 
 #: script/room.js:164
 msgid "a torch to keep the dark away"
-msgstr "어둠을 쫒기 위한 횃불"
+msgstr "어둠을 쫒는 횃불"
 
 #: script/room.js:173
 msgid "waterskin"
@@ -952,7 +952,7 @@ msgstr "물주머니"
 
 #: script/room.js:177
 msgid "this waterskin'll hold a bit of water, at least"
-msgstr "물주머니로 물을 더 담을 수 있다, 조금이지만"
+msgstr "그나마 이 물주머니는 물을 조금 담을 수 있다."
 
 #: script/room.js:185
 msgid "cask"
@@ -960,7 +960,7 @@ msgstr "물통"
 
 #: script/room.js:189
 msgid "the cask holds enough water for longer expeditions"
-msgstr "물통은 긴 여행에 충분한 물을 저장할 수 있다"
+msgstr "물통은 긴 탐험에 필요한 충분한 물을 저장할 수 있다"
 
 #: script/room.js:198
 msgid "water tank"
@@ -968,15 +968,15 @@ msgstr "물탱크"
 
 #: script/room.js:202
 msgid "never go thirsty again"
-msgstr "이제 더 이상 목마르지 않아도 된다"
+msgstr "더이상 목마르지 않아도 된다"
 
 #: script/room.js:211
 msgid "bone spear"
-msgstr "뼈 창"
+msgstr "뼈로 만든 창"
 
 #: script/room.js:214
 msgid "this spear's not elegant, but it's pretty good at stabbing"
-msgstr "우아하지는 않지만, 찌르기에는 꽤나 좋은 창이다"
+msgstr "훌륭하진 않지만, 찌르기에는 꽤나 좋은 창이다"
 
 #: script/room.js:223 script/world.js:285
 msgid "rucksack"
@@ -996,11 +996,11 @@ msgstr "마차는 많은 물건을 실을 수 있다"
 
 #: script/room.js:248
 msgid "convoy"
-msgstr "짐차"
+msgstr "호송단"
 
 #: script/room.js:252
 msgid "the convoy can haul mostly everything"
-msgstr "짐차는 뭐든지 다 실을 수 있다"
+msgstr "호송단은 거의 모든 것을 실을 수 있다"
 
 #: script/room.js:262
 msgid "l armour"
@@ -1008,7 +1008,7 @@ msgstr "가죽 갑옷"
 
 #: script/room.js:265
 msgid "leather's not strong. better than rags, though."
-msgstr "가죽은 튼튼하지는 않다. 그래도 누더기보다는 낫지."
+msgstr "가죽은 튼튼하지는 않다. 그래도 누더기보다는 낫다."
 
 #: script/room.js:274
 msgid "i armour"
@@ -1048,7 +1048,7 @@ msgstr "소총"
 
 #: script/room.js:326
 msgid "black powder and bullets, like the old days."
-msgstr "흑색 화약와 총알, 마치 옛 시절처럼."
+msgstr "화약과 총알, 옛날 같군."
 
 #: script/room.js:458
 msgid "Room"
@@ -1060,7 +1060,7 @@ msgstr "어두운 방"
 
 #: script/room.js:498
 msgid "light fire"
-msgstr "불 피우기"
+msgstr "불 붙히기"
 
 #: script/room.js:508
 msgid "stoke fire"
@@ -1078,7 +1078,7 @@ msgstr "불이 {0}"
 msgid ""
 "the stranger is standing by the fire. she says she can help. says she builds "
 "things."
-msgstr "여자가 불 가에 서 있다. 도와줄 수 있다고, 손재주가 있다고 한다."
+msgstr "낯선이가 불가에 서 있다. 손재주가 있다며 도움이 될 수 있다 한다."
 
 #: script/room.js:580
 msgid "freezing"
@@ -1134,7 +1134,7 @@ msgstr "나무가 다 떨어졌다"
 
 #: script/room.js:675
 msgid "the light from the fire spills from the windows, out into the dark"
-msgstr "불빛이 창문 밖으로, 어둠 속으로 퍼져나간다"
+msgstr "불빛이 창 밖으로, 어둠 속으로 새어나간다"
 
 #: script/room.js:688
 msgid "builder stokes the fire"
@@ -1150,17 +1150,17 @@ msgstr "나무가 떨어져 간다"
 
 #: script/room.js:726
 msgid "a ragged stranger stumbles through the door and collapses in the corner"
-msgstr "누더기를 걸친 여자가 문으로 들어와 구석에 쓰러진다"
+msgstr "누더기를 걸친 낯선이가 문으로 들어와 구석에 쓰러진다"
 
 #: script/room.js:734
 msgid ""
 "the stranger shivers, and mumbles quietly. her words are unintelligible."
 msgstr ""
-"여자는 부들부들 떨며 나지막이 중얼거린다. 무슨 말인지 알아들을 수 없다."
+"낯선이는 부들부들 떨며 나지막이 중얼거린다. 그녀가 무슨말을 하는지 알아들을 수 없다."
 
 #: script/room.js:737
 msgid "the stranger in the corner stops shivering. her breathing calms."
-msgstr "구석의 여자는 부들거리기를 멈춘다. 숨이 바르게 돌아온다."
+msgstr "구석에 있는 낯선이는 부들거리기를 멈춘다. 숨이 바르게 돌아온다."
 
 #: script/room.js:760
 msgid "stores"
